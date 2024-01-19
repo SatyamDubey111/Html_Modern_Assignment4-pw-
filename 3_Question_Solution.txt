@@ -1,0 +1,10 @@
+
+Question_Ans_3 -> accessibility refers to the practice of creating websites and web appliction that are inclusive usable by people of all abilities, including those people with disabilities. And interact with digtal content effectively.
+
+Essentisl web accessibility:
+1. Inclusive and equal access -> web accessibility ensures that people with disablities have equal access to online information and services. It promotes inclusivity and prevents the creation of digital barriers that could exclude certain individuals form participating fully in the online world.
+2. Legal compliance -> Many countries and regions have laws of requiring websites to be accessible, avoding legal issues and promoting equal access. But also demonstrates a commitment to social rsponsibility and ethical business practices.
+3. SEO -> Search engine increasingly consider accessibility when ranking websites. Elements such as well structured html, descriptive text alternatives for images, and a logical document structure contribute not only to accessibility but also to improved SEO.
+4 . Mobile users -> Accessible design improves mobile experiences through simplified and responsive layouts.
+5. Motor disabilities -> individuals with motor impairments may use alternative input devices or keyboard shortcuts.
+6. Hearing disabilities -> Closed captions, transcripts, and visual indicators provide equivalent access to information for users who are deaf or hard of hearing. 

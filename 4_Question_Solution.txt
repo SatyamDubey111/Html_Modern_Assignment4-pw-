@@ -1,0 +1,10 @@
+Question_Ans_4
+:-> Improving accessibility in html is means to ensure that web content is clearly understandable by a deserve  users,including individuals with disabilities. Here are three Html features that contribute to enhancing accessibility.
+
+1. Use semantics html elements ->  Semantics Element provide more meaning ful structure to the content, and it is easier for the user with disabilities to navigate and understand the content.
+Example: <header>, <nav>, <main>, <section> etc.
+
+2. Alternative Text for images  -> The (alt) attribute is used to provide alternative text for images. This text is displayed is the image cannot be loaded and is crucial for the users who rely on screen readers to understand the content
+Example:  <img src="example."jpg" alt="About the image">
+
+3. Use color with care -> color is a essential thing in web designing. Color accessibility in html is crucial toensure that web content is readable and understandable by user with various visual impairments, including 'color blindness'.

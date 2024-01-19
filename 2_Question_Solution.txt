@@ -1,0 +1,16 @@
+
+Qustion_Ans_2
+
+HTML Entities ->  Html entities are special code used to represent various type of characters and symbols in html. Html entities start with an ampersand ('&') and end with semicolon(';'). Here are some commonly used Html entities .
+
+e.g ->
+1. &quot;  -> it's represent the double qoutation mark(").
+2. &euro;  -> it;s represent the euro sign.
+2. &euro;  -> it;s represent the euro sign.
+3. &apos;  -> it's represent the apostrophe mark (').
+4. &copy;  -> it's represent the copyright symbol.
+5. &infin;  -> it's represent the infinity symbol.
+6. &sum;  ->  it's represent the summation symbol.
+7. &lt;  ->  it's represent the less than sign(<).
+8. &gt; -> it's represent the greater than sign (>).
+9. &amp; -> it's represent the ampersand sign (&).

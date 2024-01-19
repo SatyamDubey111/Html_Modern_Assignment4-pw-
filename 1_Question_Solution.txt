@@ -1,0 +1,13 @@
+Question_Ans_1 
+
+A. Audio and Video Support:  -> HTML5 allow for the integration of audio and video content using <audio> and <video> elements, elimating athe need for third party plugins like flash.
+
+B. Local Storage and Session storage: -> Introduction of local and session storage for client side storage, allowing web application to store data persistentlyor for the duration of a session.
+
+C.  Canvas Element:  ->  HTML5 intoduced the canvas element, which allows for dynamic, interactive graphics to be created and manipulated with in a web page .
+
+D.  Semantic Elements: -> Semantic element like <header>, <nav>, <article>, <footer> and other to provide more meaning ful structure to web documents.
+
+E. Geolocation API:  The Geolocation API enables web applications to acessthe user's geographical location information, facilitating location aware services.
+
+F.  Accessibility Improvements: ->  HTML5 provide for better support for accessibility, including the ability to provide alternative text to image and improved support for screen readers. 
